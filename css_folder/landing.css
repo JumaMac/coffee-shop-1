@@ -1,0 +1,122 @@
+.font--bold {
+  font-weight: 700;
+
+}.button__input--blue {
+  text-decoration: none;
+  font-size: 1.313rem;
+  background-color: #5BACC3;
+  color: #FFF;
+  min-width: 180px;
+  max-width: 80%;
+  padding: 20px 0;
+  border: none;
+}
+
+.button__align--center {
+  text-align: center;
+  margin: 60px 0;
+  padding-bottom: 60px;
+}
+
+.section__para--justify {
+  display: inline-block;
+  width: 20%;
+  text-align: justify;
+  margin-bottom: 40px;
+}
+
+.product-item,.product-price {
+  font-size: 2rem;
+  font-weight: 300;
+  text-align: center;
+}
+
+.nav__image {
+  float: right;
+  min-height: 240px;
+  max-height: 550px;
+  margin-top: -300px;
+  margin-right: 300px;
+}
+
+.section__card {
+  display: inline-block;
+  background-color: #FFF;
+  min-width: 330px;
+  max-width: 350px;
+  min-height: 440px;
+  max-height: 460px; 
+  border-radius: 10px;
+  box-shadow: 0 5px 9px -1px rgba(0,0,0,0.25);
+  text-align: center;
+  margin-left: 170px;
+  padding-top: 40px;
+}
+
+.section__img--size {
+  min-height: 240px;
+  max-height: 550px;  
+}
+
+.main__title {
+  text-align: center;
+  font-size:3.75rem;
+  font-weight: 300;
+  margin-top: 0;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.section__header{
+  font-size: 3.75rem;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.section__block-align {
+  display: block;
+  padding-top: 200px;
+  padding-left: 100px;
+  padding-bottom: 240px;
+}
+
+.discount-text {
+  font-size: 2.813rem;
+  color: #FFF;
+  background-color: #393939;
+  text-align: center;
+  min-width: 60%;
+  max-width: 90%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.section--discount {
+  text-align: center;
+  padding-left: 140px;
+  margin-top: 160px;
+  margin-bottom: 160px;
+}
+
+.footer--align {
+  display: inline-block;
+  font-size: 1.13rem;
+  margin: 60px 80px 60px 160px;
+}
+
+.footer--title {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.social-media-icons {
+  min-width: 50px;
+  max-width: 120px;
+}
+
+.footer--margin {
+  margin-left: 80px;
+  margin-right: 0;
+}

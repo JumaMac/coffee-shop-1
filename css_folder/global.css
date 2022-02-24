@@ -1,0 +1,62 @@
+body {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.background--pink {
+  background-color: #FFF0ED;
+}
+
+.background--grey {
+  background-color: #F7F7F7;
+}
+
+.bean-logo {
+  display: inline;
+  min-width: 50px;
+  max-width: 120px;
+  margin-left: 20px;
+} 
+
+.nav__header {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 3.75rem;
+  font-weight: 300;
+  color: #393939; 
+}
+
+.nav-menu {
+  display: inline-block;
+  list-style-type: none;
+  font-size: 1.313rem;
+}
+
+.nav__list {
+  display: inline-block;
+}
+
+.nav__anchor-item {
+text-decoration: none;
+font-size: 1.313rem;
+font-weight: 400;
+color: #393939;
+margin: 20px;
+}
+
+.active,.product-price {
+  color: #5BACC3;
+}
+
+.nav__header--margin {
+  margin: 60px 0;
+  display: inline;
+}
+
+
+
+
+
+
